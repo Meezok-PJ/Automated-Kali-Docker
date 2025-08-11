@@ -60,10 +60,10 @@ To get started with the Kali Sandbox, you only need to run a single script.
      sudo ./docker.sh access 
     ```
     
-    ![[17-38-09-Docker-Script-11-Aug-2025.png]]
+    ![17-38-09-Docker-Script-11-Aug-2025.png](images/17-38-09-Docker-Script-11-Aug-2025.png)
     
 5. Uninstalling Container: Uninstall  Docker and Remove the Folder created by the script `~/user/sandbox and ~/user/kali_sandbox` 
-![[19-28-12-Docker-Script-11-Aug-2025.png]]
+![19-28-12-Docker-Script-11-Aug-2025.png](images/19-28-12-Docker-Script-11-Aug-2025.png)
 
 #### **Verifying Persistent Storage**
 
@@ -74,8 +74,8 @@ You can easily verify that your data is being saved.
 3. Exit the container `exit`.
 4. Run `./docker.sh start` and then `./docker.sh access` to re-enter.
 5. Check the `~/sandbox` directory. You will find the file you created in `/mnt` from the previous session, confirming that the data has been saved persistently.
-- ![[17-41-40-Docker-Script-11-Aug-2025.png]]
-- ![[17-47-07-Docker-Script-11-Aug-2025.png]]
+- ![17-41-40-Docker-Script-11-Aug-2025.png](images/17-41-40-Docker-Script-11-Aug-2025.png)
+- ![17-47-07-Docker-Script-11-Aug-2025.png](images/17-47-07-Docker-Script-11-Aug-2025.pn)
 
 
 #### **Example Use Case: Running `Sn1per` Recon Framework**
@@ -84,9 +84,9 @@ You can easily verify that your data is being saved.
 
 This saves a significant amount of time and ensures you have a consistent environment for your security analysis.
   - [ClickHere for to Read about S1nper FrameWork](https://github.com/1N3/Sn1per?tab=readme-ov-file)
-  - ![[17-56-10-Docker-Script-11-Aug-2025.png]]
+  - ![17-56-10-Docker-Script-11-Aug-2025.png](images/17-56-10-Docker-Script-11-Aug-2025.png)
   - As u Can see Many Dependencies is Getting Installed 
-  - ![[17-59-58-Docker-Script-11-Aug-2025.png]]
+  - ![17-59-58-Docker-Script-11-Aug-2025.png](images/17-59-58-Docker-Script-11-Aug-2025.png)
 #### **How It Was Built**
 
 >- This project was a fun way to put my skills to the test. It's a great example of my proficiency in **Bash scripting** and my solid **Linux fundamentals** in action. It shows how I love tackling a common developer frustration with a practical, automated solution.
