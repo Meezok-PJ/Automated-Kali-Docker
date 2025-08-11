@@ -73,7 +73,7 @@ You can easily verify that your data is being saved.
 4. Run `./docker.sh start` and then `./docker.sh access` to re-enter.
 5. Check the `~/sandbox` directory. You will find the file you created in `/mnt` from the previous session, confirming that the data has been saved persistently.
 - ![17-41-40-Docker-Script-11-Aug-2025.png](images/17-41-40-Docker-Script-11-Aug-2025.png)
-- ![17-47-07-Docker-Script-11-Aug-2025.png](images/17-47-07-Docker-Script-11-Aug-2025.pn)
+- ![17-47-07-Docker-Script-11-Aug-2025.png](images/17-47-07-Docker-Script-11-Aug-2025.png)
 
 
 #### **Example Use Case: Running `Sn1per` Recon Framework**
