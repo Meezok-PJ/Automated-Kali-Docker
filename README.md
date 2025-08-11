@@ -37,12 +37,11 @@ To get started with the Kali Sandbox, you only need to run a single script.
 
 	```
     
-    ![[17-34-14-Docker-Script-11-Aug-2025.png]]
+    ![17-34-14-Docker-Script-11-Aug-2025.png](images/17-34-14-Docker-Script-11-Aug-2025.png)
     
+     
     
-    
-    
-3. **Builds the container or and create the Directories  :
+4. **Builds the container or and create the Directories  :
 	 ```bash 
      sudo ./docker.sh start
     ```
