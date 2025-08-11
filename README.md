@@ -47,7 +47,7 @@ To get started with the Kali Sandbox, you only need to run a single script.
      sudo ./docker.sh start
     ```
 - After Running   the `start` |  these directories will be created `~/kali_sanbox` directory u will find the `README.md` file make sure u read it if your not fmiliar with docker/docker-compose and to view my Project info
-![[17-52-14-Docker-Script-11-Aug-2025.png]]
+![17-52-14-Docker-Script-11-Aug-2025.png](images/17-52-14-Docker-Script-11-Aug-2025.png)
     `start` will build the Docker image (if it doesn't exist).
     ![17-36-04-Docker-Script-11-Aug-2025.png](images/17-36-04-Docker-Script-11-Aug-2025.png)
     
