@@ -1,6 +1,4 @@
-
-
-
+![Meezok-KALI-SandBox-.png](images/Meezok-KALI-SandBox-.png)
 ### Kali Sandbox: A Secure & Rapid Testing Environment
 
 >- **Kali Sandbox** is a project I developed to solve a common pain point for developers and security researchers: the time-consuming process of setting up a secure Kali Linux testing environment. This single-script solution automates the entire setup, deploying a complete, isolated Kali container in seconds, not minutes.
